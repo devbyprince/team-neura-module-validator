@@ -1,0 +1,6 @@
+{
+  "name": "Accuracy Checker",
+  "description": "Educational module QA tool for verifying and correcting claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
